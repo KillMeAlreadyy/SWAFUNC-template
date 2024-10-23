@@ -18,3 +18,7 @@ For deployment to Azure Static Web App
     6. Hit "Save and run"
     7. Open the URL of your Static Webapp and enjoy!
 
+Troubleshooting Tips:
+1. Use the Application Insigths of your SWA
+2. Watch the Deployment Logs of your Pipeline
+
