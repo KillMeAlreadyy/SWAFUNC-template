@@ -2,7 +2,7 @@
 This is a Template for creating Azure Static Webapps with a managed Azure function in python
 
 For Local Develoment:
-1. Edit the "__init__.py" and add your API Logic in the "main"- Function
+1. Edit the "__init__.py"-file and add your API Logic in the "main"- Function
 2. Edit the react app to your liking
 3. Open a Terminal and cd into the api Folder -> run "func start"
 4. Open a second Terminal and cd into the react directory -> run "npm install" and "npm run dev"
